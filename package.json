@@ -1,0 +1,30 @@
+{
+	"name": "safeset",
+	"version": "0.0.0",
+	"description": "Set, but safe from prototype modifications.",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/safeset.git"
+	},
+	"keywords": [
+		"set",
+		"safe",
+		"SafeSet",
+		"robust",
+		"prototype"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/safeset/issues"
+	},
+	"homepage": "https://github.com/ljharb/safeset#readme"
+}
