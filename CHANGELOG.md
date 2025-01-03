@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.1](https://github.com/ljharb/safeset/compare/v1.0.0...v1.0.1) - 2025-01-03
+
+### Commits
+
+- [Deps] move `es-set` from dev deps to prod deps [`74a808f`](https://github.com/ljharb/safeset/commit/74a808f7d83ca800a5d3ad5cab6c2675ee09b1e4)
+
 ## v1.0.0 - 2025-01-03
 
 ### Commits
